@@ -1,1 +1,1 @@
-# matlab-cody
+# MATLAB Cody
